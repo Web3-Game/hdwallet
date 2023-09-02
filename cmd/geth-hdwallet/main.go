@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/Web3-game/hdwallet"
+	"github.com/Web3-Game/hdwallet"
 	"log"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Web3-game/hdwallet
+module github.com/Web3-Game/hdwallet
 
 go 1.21
 

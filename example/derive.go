@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Web3-game/hdwallet"
+	"github.com/Web3-Game/hdwallet"
 )
 
 func main() {

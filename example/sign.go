@@ -4,7 +4,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/Web3-game/hdwallet"
+	"github.com/Web3-Game/hdwallet"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
